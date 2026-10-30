@@ -1,0 +1,7 @@
+Models by Quaternius (https://quaternius.com), Public Domain (CC0 1.0) — https://creativecommons.org/publicdomain/zero/1.0/
+
+ship-quaternius.glb  — "Ship"           https://poly.pizza/m/mEQj2wZ3GC
+pirate-captain.glb   — "Pirate Captain" https://poly.pizza/m/sN18LyyHAU  (Pirate Kit)
+pirate-henry.glb     — "Henry"          https://poly.pizza/m/yEdSk8tRKc  (Pirate Kit)
+pirate-anne.glb      — "Anne"           https://poly.pizza/m/tZYaOQ4l94  (Pirate Kit)
+pirate-mako.glb      — "Mako"           https://poly.pizza/m/2urczqZ9Xf  (Pirate Kit)
