@@ -1,0 +1,4 @@
+tribal-man.glb — "Tribal Man" by Polygonal Mind
+Source: https://poly.pizza/m/vrdJP4oV26
+License: Public Domain (CC0 1.0) — https://creativecommons.org/publicdomain/zero/1.0/
+The arms are lowered from the model's T-pose at load time.
