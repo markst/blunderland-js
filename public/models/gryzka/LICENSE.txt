@@ -1,0 +1,4 @@
+enemy-ship.glb — "Ship" by Krzysztof Gryzka
+Source: https://poly.pizza/m/5n3aojUq2Bq
+License: Creative Commons Attribution (CC BY) — credit required; shown on the game's start screen.
+The model's sea and cloud meshes are stripped at load time.
